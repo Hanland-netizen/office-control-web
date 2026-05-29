@@ -1,0 +1,6 @@
+{
+  "name": "Офис Контроль",
+  "description": "Панель управления системой мониторинга офиса: мультиэкран камер, детальная аналитика, управление пользователями и событиями.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
